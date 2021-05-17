@@ -7,7 +7,7 @@ Game Instructions:
 - When the user clicks a picture, the pictures are shuffled on the screen
 - When the user clicks a picture that has already been selected, the score will reset to 0.
 
-![Image](PICTURE URL HERE)
+![Image](./public/demo.png)
 
 Due: Tuesday, May 18, 2021 11:59 PM
 
@@ -69,7 +69,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Deployed Link
 
-* [See Live Site](DEPLOYED LINK HERE)
+* [See Live Site](https://acedyu.github.io/18-clicky-game/)
 
 ## Authors
 AcedYu
